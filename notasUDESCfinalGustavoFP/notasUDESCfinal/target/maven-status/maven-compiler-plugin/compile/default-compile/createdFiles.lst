@@ -1,0 +1,16 @@
+persistencia/AvaliacaoDAO.class
+persistencia/AlunoDAO.class
+exceptions/SelectException.class
+persistencia/SemestreDAO.class
+persistencia/Conexao.class
+com/mycompany/notasudescfinal/NotasUDESCfinal.class
+dados/Aluno.class
+negocio/Main.class
+persistencia/DisciplinaDAO.class
+negocio/Sistema.class
+exceptions/UpdateException.class
+dados/Disciplina.class
+dados/Semestre.class
+dados/Avaliacao.class
+exceptions/DeleteException.class
+exceptions/InsertException.class

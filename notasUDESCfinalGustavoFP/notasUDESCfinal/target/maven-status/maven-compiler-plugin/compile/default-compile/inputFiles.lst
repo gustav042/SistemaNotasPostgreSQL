@@ -1,0 +1,16 @@
+/home/gustavo/Área de Trabalho/notasUDESCfinal/src/main/java/dados/Disciplina.java
+/home/gustavo/Área de Trabalho/notasUDESCfinal/src/main/java/negocio/Sistema.java
+/home/gustavo/Área de Trabalho/notasUDESCfinal/src/main/java/com/mycompany/notasudescfinal/NotasUDESCfinal.java
+/home/gustavo/Área de Trabalho/notasUDESCfinal/src/main/java/exceptions/UpdateException.java
+/home/gustavo/Área de Trabalho/notasUDESCfinal/src/main/java/exceptions/SelectException.java
+/home/gustavo/Área de Trabalho/notasUDESCfinal/src/main/java/dados/Semestre.java
+/home/gustavo/Área de Trabalho/notasUDESCfinal/src/main/java/persistencia/SemestreDAO.java
+/home/gustavo/Área de Trabalho/notasUDESCfinal/src/main/java/persistencia/Conexao.java
+/home/gustavo/Área de Trabalho/notasUDESCfinal/src/main/java/exceptions/InsertException.java
+/home/gustavo/Área de Trabalho/notasUDESCfinal/src/main/java/negocio/Main.java
+/home/gustavo/Área de Trabalho/notasUDESCfinal/src/main/java/dados/Aluno.java
+/home/gustavo/Área de Trabalho/notasUDESCfinal/src/main/java/persistencia/AlunoDAO.java
+/home/gustavo/Área de Trabalho/notasUDESCfinal/src/main/java/persistencia/DisciplinaDAO.java
+/home/gustavo/Área de Trabalho/notasUDESCfinal/src/main/java/dados/Avaliacao.java
+/home/gustavo/Área de Trabalho/notasUDESCfinal/src/main/java/exceptions/DeleteException.java
+/home/gustavo/Área de Trabalho/notasUDESCfinal/src/main/java/persistencia/AvaliacaoDAO.java
